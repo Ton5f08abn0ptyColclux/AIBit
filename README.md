@@ -1,2 +1,3 @@
 # AIBitAIBitIntroduction
 AIObjectives
+SetupGuide
