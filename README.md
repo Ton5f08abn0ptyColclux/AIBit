@@ -4,3 +4,4 @@ SetupGuide
 AgentFeatures
 DependenciesList
 CodeExamples
+ConfigurationSettings
