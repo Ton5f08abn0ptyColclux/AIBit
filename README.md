@@ -5,3 +5,4 @@ AgentFeatures
 DependenciesList
 CodeExamples
 ConfigurationSettings
+ContributionGuide
