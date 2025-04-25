@@ -10,3 +10,4 @@ ErrorHandling
 LicenseDetails
 AIFrequentlyAskedQuestions
 Changelog
+TestingInstructions
