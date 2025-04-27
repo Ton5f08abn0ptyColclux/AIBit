@@ -11,3 +11,4 @@ LicenseDetails
 AIFrequentlyAskedQuestions
 Changelog
 TestingInstructions
+PerformanceMetrics
