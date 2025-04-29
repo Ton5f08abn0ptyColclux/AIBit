@@ -12,3 +12,4 @@ AIFrequentlyAskedQuestions
 Changelog
 TestingInstructions
 PerformanceMetrics
+CommunitySupport
